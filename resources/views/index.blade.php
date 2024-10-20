@@ -1,6 +1,6 @@
 @include('partials/header')
 
-@include('partials/blocks.navigation', [ 'active' => 'home'])
+@include('partials/blocks/navigation', [ 'active' => 'home'])
 
 @include('partials/blocks/hero_slider')
 

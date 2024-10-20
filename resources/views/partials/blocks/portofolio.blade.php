@@ -6,12 +6,12 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-6 col-lg-8">
                         <!-- section title -->
-                        <div class="title text-center">
+                        {{-- <div class="title text-center">
                             <h2>Our Works</h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, veritatis. Lorem ipsum dolor sit amet,
                                 consectetur adipisicing elit. Minima, vitae? </p>
                             <div class="border"></div>
-                        </div>
+                        </div> --}}
                         <!-- /section title -->
                     </div>
                 </div>
