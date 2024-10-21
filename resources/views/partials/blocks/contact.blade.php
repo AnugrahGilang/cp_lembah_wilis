@@ -86,7 +86,7 @@
    =            Google Map            =
    =================================-->
    <div class="google-map">
-       <div id="map_canvas" class="map_canvas" data-latitude="40.712776" data-longitude="-74.005974" data-marker="{{ asset('images/marker.png') }}" data-marker-name="Bingo"></div>
+       <div id="map_canvas" class="map_canvas" data-latitude="-7.700677" data-longitude="111.6284" data-marker="{{ asset('images/marker.png') }}" data-marker-name="Bingo"></div>
    </div>
     <!--====  End of Google Map  ====-->
 

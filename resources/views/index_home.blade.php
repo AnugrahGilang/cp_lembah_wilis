@@ -12,9 +12,9 @@
 
 @include('partials.blocks.portofolio')
 
-@include('partials/blocks/call_to_action2')
+@include('partials/blocks/testimonial')
 
-{{-- @include('partials/blocks/testimonial') --}}
+@include('partials/blocks/call_to_action2')
 
 {{-- @include('partials/blocks/blog') --}}
 

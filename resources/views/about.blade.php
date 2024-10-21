@@ -16,7 +16,7 @@
             view keindahan area persawahan dan Gunung Wilis. Berbagai spot foto indah juga tersedia di tempat ini.</p>
       </div>
       <div class="col-lg-6 mt-4 mt-lg-0">
-        <img loading="lazy" class="img-fluid" src="{{ asset('images/company/company-image.jpg') }}" alt="">
+        <img loading="lazy" class="img-fluid" src="{{ asset('images/company/lembahwilis.jpg') }}" alt="">
       </div>
     </div>
   </div>
@@ -28,12 +28,12 @@
       <div class="col-md-6">
         <h3> Misi</h3>
         <p>...</p>
-        <img loading="lazy" src="{{ asset('images/company/company-image-2.jpg') }}" alt="" class="img-fluid mt-30">
+        <img loading="lazy" src="{{ asset('images/company/lembahwilis2.jpg') }}" alt="" class="img-fluid mt-30">
       </div>
       <div class="col-md-6 mt-5 mt-md-0">
         <h3>Visi</h3>
         <p>...</p>
-        <img loading="lazy" src="{{ asset('images/company/company-image-3.jpg') }}" alt="" class="img-fluid mt-30">
+        <img loading="lazy" src="{{ asset('images/company/lembahwilis3.jpg') }}" alt="" class="img-fluid mt-30">
       </div>
     </div>
   </div>

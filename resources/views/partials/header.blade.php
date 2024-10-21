@@ -5,7 +5,7 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
-  <title>Bingo | Responsive Multipurpose Parallax HTML5 Template</title>
+  <title>Lembah Wilis</title>
 
   <!-- Mobile Specific Metas
   ================================================== -->
@@ -18,7 +18,7 @@
   <meta name="theme-name" content="bingo" />
 
   <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/favicon.png')}}" />
+  <link rel="shortcut icon" type="image/x-icon" href="{{ asset('images/logo1ls.png')}}" />
 
   <!-- CSS
   ================================================== -->

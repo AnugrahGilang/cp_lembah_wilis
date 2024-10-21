@@ -5,8 +5,8 @@
         <nav class="navbar navbar-expand-lg navbar-light px-0">
             <!-- logo -->
             <a class="navbar-brand logo" href="{{ url('/') }}">
-                <img loading="lazy" class="logo-default" src="{{ asset('images/lg-lembah-wilis.png') }}" alt="logo" />
-                <img loading="lazy" class="logo-white" src="{{ asset('images/lg-lembah-wilis.png') }}" alt="logo" />
+                <img loading="lazy" class="logo-default" src="{{ asset('images/logo1ls.png') }}" alt="logo" />
+                <img loading="lazy" class="logo-white" src="{{ asset('images/logo1ls.png') }}" alt="logo" />
             </a>
             <!-- /logo -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
