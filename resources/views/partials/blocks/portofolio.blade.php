@@ -7,9 +7,8 @@
                     <div class="col-xl-6 col-lg-8">
                         <!-- section title -->
                         <div class="title text-center">
-                            <h2>Our Works</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, veritatis. Lorem ipsum dolor sit amet,
-                                consectetur adipisicing elit. Minima, vitae? </p>
+                            <h2>Jam Buka layanan</h2>
+                            <p>08.00-17.00 WIB Resto | 08.00-16.00 WIB Kolam Renang </p>
                             <div class="border"></div>
                         </div>
                         <!-- /section title -->

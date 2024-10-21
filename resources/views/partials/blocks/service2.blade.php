@@ -1,4 +1,4 @@
-<!--
+{{-- <!--
 Start About Section
 ==================================== -->
 <section class="service-2 section">
@@ -55,4 +55,4 @@ Start About Section
         </div>
       </div> <!-- End row -->
     </div> <!-- End container -->
-  </section> <!-- End section -->
+  </section> <!-- End section --> --}}
