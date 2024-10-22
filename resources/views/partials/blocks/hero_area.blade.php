@@ -15,7 +15,7 @@
                         <li class="list-inline-item">
                             <a data-scroll href="#team" class="btn btn-transparent">Learn More</a>
                         </li>
-                    </ul>
+                    </ul> --}}
                 </div>
             </div>
         </div>

@@ -10,7 +10,7 @@
                             <h2>Jam Buka layanan</h2>
                             <p>08.00-17.00 WIB Resto | 08.00-16.00 WIB Kolam Renang </p>
                             <div class="border"></div>
-                        </div>
+                        </div> --}}
                         <!-- /section title -->
                     </div>
                 </div>
